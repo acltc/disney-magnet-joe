@@ -1,0 +1,246 @@
+/*HOME PAGE */
+h1 {
+	font-size: 95px; 
+	color:#990000;
+	font-family: 'Bungee', cursive;
+}
+
+body {
+	background-color:#007756;
+
+}
+
+ul{
+	font-size: 18px; 
+	color:#990000;
+	font-family: 'Bungee', cursive;
+}
+
+img {
+	width: 650px;
+	height:auto;
+}
+h2 {
+	font-size: 70px;
+	color:#990000;
+	font-family: 'Bungee', cursive;
+}
+
+#santa {
+	font-size: 60px;
+	margin: 0px 0px 15px 15px;
+	color: #000000;
+}
+
+.santa {
+	width: 300px;
+	height:500px;
+
+}
+
+.logo {
+	width: 600px;
+	height: 700px;
+}
+
+p {
+	font-family: 'Muli', sans-serif;
+	font-size: 35px;
+}
+
+#santa_pic{
+	float:left;
+	margin-top: 20px;
+	width: 700px;
+	height:200px;
+}
+
+
+
+#santa_text{
+	float:left;
+	width: 600px;
+	margin: 30px 0px 0px 35px ;
+	padding: 0px 0px 0px 15px;
+	color:#000000;
+
+}
+
+#jordan {
+	clear: both;
+} 
+  
+#question-1-solution {
+	color: #990000;
+	display:none;
+}
+
+#question-2-solution {
+	color: #990000;
+	display:none;
+}
+#question-3-solution {
+	color: #990000;
+	display:none;
+}
+
+
+
+/*JORDAN PAGE */
+
+#jordan1 {
+	display: inline-block;
+	height: 400px;
+}
+
+#jordan1_text{
+	display: inline-block;
+	height: 400px;
+	color:#000000;
+
+}
+#jordan {
+	display: inline-block;
+	height: 400px;
+}
+
+#jordan3_text{
+	display: inline-block;
+	height: 400px;
+	color:#000000;
+
+}
+
+#spacejam11 {
+	display: inline-block;
+	height: 400px;
+
+ }
+
+ #spacejam11_text{
+	display: inline-block;
+	height: 400px;
+	color:#000000;
+}
+
+#ovo12 {
+	display: inline-block;
+	height: 400px;
+}
+
+#ovo12_text{
+	display: inline-block;
+	height: 400px;
+	color:#000000;
+}
+
+
+/*nike page */
+
+#roshe{
+	display: inline-block;
+	height: 400px;
+}
+
+#roshe_text{
+	display: inline-block;
+	height: 400px;
+	color:#000000;
+
+}
+
+#foamposite{
+	display: inline-block;
+	height: 400px;
+}
+
+#foamposite_text{
+	display: inline-block;
+	height: 400px;
+	color:#000000;
+
+}
+#red{
+	display: inline-block;
+	height: 400px;
+}
+
+#red_text{
+	display: inline-block;
+	height: 400px;
+	color:#000000;
+
+}
+#nike1{
+	display: inline-block;
+	height: 400px;
+}
+
+
+#nike1_text{
+	display: inline-block;
+	height: 400px;
+	color:#000000;
+
+}
+
+
+
+/* adidas page */
+
+#uncaged{
+	display: inline-block;
+	height: 400px;
+
+	}
+
+#uncaged_text{
+	display: inline-block;
+	height: 400px;
+	color:#000000;
+}
+
+#bape2{
+display: inline-block;
+	height: 400px;
+}
+
+#bape2_text{
+	display: inline-block;
+	height: 400px;
+	color:#000000;
+}
+
+#stansmith{
+	display: inline-block;
+	height: 400px;
+
+	}
+
+#stansmith_text{
+	display: inline-block;
+	height: 400px;
+	color:#000000;
+
+}
+
+#yezzy{
+	display: inline-block;
+	height: 400px;
+	}
+
+#yezzy_text{
+display: inline-block;
+	height: 400px;
+	color:#000000;
+
+
+
+
+
+
+
+
+
+
+
